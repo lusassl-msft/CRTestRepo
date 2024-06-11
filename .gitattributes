@@ -1,3 +1,4 @@
-﻿*.manifest binary -text
-*.application binary -text
-*.deploy binary -text
+﻿*.manifest binary
+*.application binary
+*.deploy binary
+*.Online.CSE.Hybrid.Client.application binary
